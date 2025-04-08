@@ -2,11 +2,9 @@
 
 <br>
 
-In this Implementation we cover installation and configuration of Snort in Inline Mode on CentOS VM systems, along with rule creation for detecting various types of network traffic.
+In this Guide we cover installation and configuration of Snort in Inline Mode on CentOS VM systems, along with rule creation for detecting various types of network traffic.
 
 <br>
-<br>
-
 
 ### Intrusion Prevention System (IPS)
   *An Intrusion Prevention System (IPS) is a network security technology designed to monitor network traffic, detect potential threats or malicious activity, and prevent those threats from reaching their targets. IPSs are proactive devices that analyze network traffic for suspicious patterns, logging relevant information, attempting to block attacks, and reporting these activities for further analysis.*
